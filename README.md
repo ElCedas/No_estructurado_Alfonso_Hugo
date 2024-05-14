@@ -27,7 +27,7 @@ Entonces aparecera esto en el local:
 ![1era](./imagenes_readme/1era.png)
 Aqui habra que introducir una imagen jpg.
 ![2nda](./imagenes_readme/2nda.png)
-Aqui despues de predecir, tambien saldra automaticamente la explicacion de LIME.
+Aqui despues de predecir, tambien saldra automaticamente la explicacion de LIME.\
 ![3era](./imagenes_readme/3era.png)
 
 
