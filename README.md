@@ -7,6 +7,7 @@ El proyecto tiene como objetivo entrenar un modelo pequeño pero eficiente en la
 Se exploraran varios modelos conocidos para intentar obtener el mejor resultado,\
 asi como las razones por las que se tienen errores en imagenes especificas de los modelos mediante explicabilidad de imagenes de lime.\
 Los notebooks aon donde se encuentra la mayor parte del contenido sobre modelos de prueba, con el principal sobre el modelo elegido siendo el shuffle net.\
+Se utiliza un dataset publico en robot.ox.ac.uk llamado pets que tiene imagenes de 35 razas distintas de perros y gatos.
 
 ## App
 Para poder realizar la actividad de manera interactiva, se implemento todo dentro de una app de streamlit, en la que si se inserta un jpg,\
