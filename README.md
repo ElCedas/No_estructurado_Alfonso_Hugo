@@ -1,6 +1,6 @@
 # No_estructurado Hugo Castro Campos y Alfonso R Cedillo Mayorga
 Trabajo para el modulo de analisis no estructurado del master de big data y analitica avanzada de ICAI\
-Hugo Castro: 
+Hugo Castro: 202309848@alu.comillas.edu\
 Alfonso Cedillo: 202313838@alu.comillas.edu
 ## Overview
 El proyecto tiene como objetivo entrenar un modelo pequeño pero eficiente en la clasificacion de imagenes de mascotas.\
