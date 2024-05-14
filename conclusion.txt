@@ -1,0 +1,3 @@
+En conclusion, hemos creado un modelo eficiente y efectivo, que se puede expandir mediante mas epochs asi como un mayor numero de imagenes seleccionadas, si se diera el caso.
+Se puede visualizar las areas de importancia de cada imagen, con el proposito de sabr que podria haber salido mal, como puede ser el caso del ejemplo en el modelo mobile, en el que 
+se vio como se clasificaba mal un gato por que tenia un peluche a su lado, viendo como se le atribuia al pelucha aquella importancia indebida.
