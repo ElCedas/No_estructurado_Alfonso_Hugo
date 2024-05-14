@@ -24,7 +24,7 @@ streamlit run streamlit2.py
 ```
 Entonces aparecera esto en el local:
 ## Imágenes
-![1era](./imagenes_readme/1era.png)
+![1era](./imagenes_readme/1era.png)\
 Aqui habra que introducir una imagen jpg.
 ![2nda](./imagenes_readme/2nda.png)\
 Aqui despues de predecir, tambien saldra automaticamente la explicacion de LIME.\
