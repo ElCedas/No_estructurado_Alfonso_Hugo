@@ -1,7 +1,7 @@
 # No_estructurado_Alfonso R Cedillo Mayorga y Hugo Castro Campos
 Trabajo para el modulo de analisis no estructurado del master de big data y analitica avanzada de ICAI
 
-
+Los notabooks es donde se encuentra la mayor parte del contenido, con el principal sobre el modelo elegido siendo el shuffle net.
 
 ## Instrucciones
 Para runnear la app de streamlit, runnear esto en consola, dentro de un environment que tenga los requerimientos:
