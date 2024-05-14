@@ -19,7 +19,6 @@ Entonces aparecera esto en el local:
 ![3era](./imagenes_readme/3era.png)
 
 
-Conclusion
-This application demonstrates how LIME can be used to interpret and understand the predictions made by an image classification model, making the AI decision-making process more transparent.
 
-Thank you for checking out our project!
+
+Gracias por ver nuestro proyecto.
