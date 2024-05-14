@@ -3,7 +3,7 @@ Trabajo para el modulo de analisis no estructurado del master de big data y anal
 El proyecto tiene como objetivo entrenar un modelo pequeño pero eficiente en la clasificacion de imagenes de mascotas.\
 Se exploraran varios modelos conocidos para intentar obtener el mejor resultado,\
 asi como las razones por las que se tienen errores en imagenes especificas de los modelos mediante explicabilidad de imagenes de lime.\
-Los notebooks aon donde se encuentra la mayor parte del contenido sobre modelos de prueba, con el principal sobre el modelo elegido siendo el shuffle net. \
+Los notebooks aon donde se encuentra la mayor parte del contenido sobre modelos de prueba, con el principal sobre el modelo elegido siendo el shuffle net.
 
 
 ## Instrucciones
