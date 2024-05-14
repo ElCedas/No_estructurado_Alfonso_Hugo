@@ -7,6 +7,8 @@ Trabajo para el modulo de analisis no estructurado del master de big data y anal
 Para runnear la app de streamlit, runnear esto en consola, dentro de un environment que tenga los requerimientos:
 Se vera asi, y se runneara con el comando que esta abajo.
 
+Puede elegirse cualquiera de las imagenes dentro del dataset o alguna de internet, con tal de que sea un jpg, deberia funcionar con certeza.
+
 
 
 ```bash
