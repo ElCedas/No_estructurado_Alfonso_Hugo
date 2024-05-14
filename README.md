@@ -14,7 +14,7 @@ Se vera asi, y se runneara con el comando que esta abajo.
 
 ```bash
 streamlit run streamlit2.py
-
+```
 Entonces aparecera esto en el local:
 
 
